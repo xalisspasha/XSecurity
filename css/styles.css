@@ -34,8 +34,8 @@ border-color: aquamarine;
   .development{
       opacity: 60%;
    position: static;
-   width: 400px;
-    margin-top: 20px;
+   width: 500px;
+    margin-top: 25px;
     border-radius: 50px;}
   
   }
@@ -44,8 +44,8 @@ border-color: aquamarine;
 .development{
     opacity: 60%;
  position: static;
-width: 400px;
-  margin-top: 20px;
+width: 500px;
+  margin-top: 25px;
   border-radius: 50px;}
 
 }
