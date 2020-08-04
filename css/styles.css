@@ -108,7 +108,13 @@ h3{
   font-family: "Montserrat-Bold" ;
 }
 p{
-  color: #8f8f8f;
+  color: #fbd46d;
+}
+.pprice, .pfeature{
+  color: #1b1c25;
+}
+.pfoot{
+  color: #fff;
 }
 
 /*features section*/
