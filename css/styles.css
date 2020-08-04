@@ -29,17 +29,26 @@ border-color: aquamarine;
 
 }
 
-@media (max-width:1028px){
+@media (max-width:1028px) and (min-width:900px){
 
   .development{
       opacity: 60%;
    position: static;
-   width: 700px !important;
-    margin-top: 80px !important;
+   width: 700px ;
+    margin-top: 80px ;
     border-radius: 50px;}
   
   }
+  @media (max-width:900px) {
 
+    .development{
+        opacity: 60%;
+     position: static;
+     width: 600px ;
+      margin-top: 80px ;
+      border-radius: 50px;}
+    
+    }
 h1{
   color: aliceblue;
   margin-top: 60px !important;
