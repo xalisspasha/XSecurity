@@ -35,20 +35,11 @@ border-color: aquamarine;
       opacity: 60%;
    position: static;
    width: 500px;
-    margin-top: 25px;
+    margin-top: 50px;
     border-radius: 50px;}
   
   }
-@media (max-width:768px){
 
-.development{
-    opacity: 60%;
- position: static;
-width: 500px;
-  margin-top: 25px;
-  border-radius: 50px;}
-
-}
 h1{
   color: aliceblue;
   margin-top: 60px !important;
