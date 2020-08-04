@@ -1,0 +1,184 @@
+body{
+  
+  font-family: 'Montserrat', sans-serif;
+}
+#title{
+    background-color: #363636;
+  
+}
+
+.navbar-brand {
+  position: sticky;
+margin: -80px -10px;
+}
+
+
+.container{
+  padding: 5% 15% 15%;
+  
+}
+.development {
+  position: absolute;
+ margin-top: 35px;
+ opacity: 60%;
+border-color: aquamarine;
+ width:600px;
+ border-radius: 50px;
+ border: 3px solid;
+
+ border-color: goldenrod;
+
+}
+@media (max-width:1028px){
+
+.development{
+    opacity: 60%;
+ position: static;
+ width: 450px;
+  margin-top: 20px;
+  border-radius: 50px;}
+
+}
+h1{
+  color: aliceblue;
+  margin-top: 60px !important;
+margin-bottom: 40px !important;
+  font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.navbar{
+  padding: 0 0 4.5rem;
+
+}
+
+.navbar-brand{
+  font-family: "Ubuntu" ;
+  font-size: 2.5rem;
+  font-weight: bold;
+  
+}
+
+.nav-item{
+  padding: 0 10px;
+  text-align: right;
+
+
+}
+
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Montserrat";
+  font-weight: bold;
+  color: #fff !important;
+
+}
+.nav-item:hover {
+  background-color: goldenrod;
+}
+.btn-info {
+  position: static;
+  margin-top: 60px !important;
+  margin-bottom: 10px;
+  text-align: center;
+}
+.download-button{
+  margin: 5% 3% 5% 0;;
+}
+
+
+.icon{
+ color: #222831;
+ margin-bottom: 1rem;
+}
+
+.icon:hover {
+color: goldenrod;
+
+}
+h2{
+  font-family: "Montserrat-Bold" ;
+  font-size: 3rem ;
+  line-height: 1.5;
+}
+h3{
+  font-size: 1.5rem;
+  font-family: "Montserrat-Bold" ;
+}
+p{
+  color: #8f8f8f;
+}
+
+/*features section*/
+#features{
+  padding: 7% 15%;
+  position: relative;
+  background-color: #fff;
+ 
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+/* Testimonials*/
+#testimonials{
+  text-align: center;
+  background-color: #3f4441;
+  color: #fff ;
+}
+
+.carousel-item{
+  padding: 7% 15%;
+}
+.testimonial-image{
+ width: 100px;
+ height: 90px;
+  border-radius: 100%;
+  margin: 10px;
+}
+
+#press {
+  background-color: #1b262c;
+  text-align: center;
+  padding-bottom: 3%;
+}
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 50px  ;
+}
+.pricing-columns{
+  padding: 3% 2%;
+  text-align: center;
+}
+
+#footer{
+  padding: 5%;
+  background-color: #222831;
+  color: #fff;
+  text-align: center;
+}
+.foot{
+  color: whitesmoke;
+
+}
+.social{
+  margin-bottom: 20px;
+}
+.socialicon {
+  margin-left: 10px;
+  color:#318fb5;
+  
+}
+.socialicon:hover{
+  color: goldenrod;
+}
+.title-button{
+text-decoration: none !important;
+color: #fff;
+}
+
+.title-button:hover {
+  color:#222831;
+}
