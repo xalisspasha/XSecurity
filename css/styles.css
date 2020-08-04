@@ -78,11 +78,13 @@ margin-bottom: 40px !important;
 .nav-item:hover {
   background-color: goldenrod;
 }
-.btn-info {
+.btn{
+  
   position: static;
   margin-top: 60px !important;
   margin-bottom: 10px;
   text-align: center;
+  
 }
 .download-button{
   margin: 5% 3% 5% 0;;
@@ -107,9 +109,10 @@ h3{
   font-size: 1.5rem;
   font-family: "Montserrat-Bold" ;
 }
-p{
-  color: #fbd46d;
+h6{
+  color: #f3f3f3;
 }
+
 .pprice, .pfeature{
   color: #1b1c25;
 }
